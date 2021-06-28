@@ -1,0 +1,9 @@
+[Settings]
+ApplicationToStart = MAIN.EXE
+
+[Data]
+FS = 5766452
+HV = 5818C74C8414EE8C03AF4C06161638D3
+DA = 2021-06-28
+TI = 15:50
+
